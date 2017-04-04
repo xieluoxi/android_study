@@ -9,6 +9,9 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+/**
+ * http://blog.csdn.net/hanhailong726188/article/details/46738929
+ */
 public class MainActivity extends AppCompatActivity {
 
     //设置viewPaper
