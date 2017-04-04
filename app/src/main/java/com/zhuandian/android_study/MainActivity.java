@@ -10,11 +10,12 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
+ * git
  * http://blog.csdn.net/hanhailong726188/article/details/46738929
+ *
  */
 public class MainActivity extends AppCompatActivity {
 
-    //设置viewPaper
     ViewPager pager = null;
     ArrayList<Fragment> viewContainter = new ArrayList<>();
     private TextView home;
