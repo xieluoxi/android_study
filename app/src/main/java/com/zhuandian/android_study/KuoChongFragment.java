@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 public class KuoChongFragment extends android.support.v4.app.Fragment {
     private View view;
 
-    
+
 
     @Nullable
     @Override
